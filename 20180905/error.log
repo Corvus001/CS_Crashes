@@ -201,7 +201,7 @@ Image Base: 0x00400000  Image Size: 0x0001e000
 File Size:  107368      File Time:  2007-04-04_195422
 Version:
    Company:    Microsoft Corporation
-   Product:    Microsoft® DirectX for Windows®
+   Product:    MicrosoftÂ® DirectX for WindowsÂ®
    FileDesc:   Microsoft Common Controller API
    FileVer:    9.18.944.0
    ProdVer:    9.18.944.0
@@ -212,7 +212,7 @@ Image Base: 0x05dd0000  Image Size: 0x00012000
 File Size:  65184       File Time:  2018-04-11_203422
 Version:
    Company:    Microsoft Corporation
-   Product:    Microsoft® Windows® Operating System
+   Product:    MicrosoftÂ® WindowsÂ® Operating System
    FileDesc:   ASN.1 Runtime APIs
    FileVer:    10.0.17134.1
    ProdVer:    10.0.17134.1
