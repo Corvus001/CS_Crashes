@@ -1,0 +1,512 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     2007 MB
+    Driver:   24.21.13.9836
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ColossalManaged.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ColossalManaged.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICities.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICities.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\PopsApiWrapper.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\PopsApiWrapper.dll into Unity Child Domain
+- Completed reload, in  0.365 seconds
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3360x1080 at -1440,0
+<RI> Initialized touch support.
+UnloadTime: 1.826644 ms
+Game mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.478450 ms
+Machine ID: a2c0300bbd557ab1b22f7beb3bb21a2ca20e974a
+Model: Z370 AORUS Gaming 5 (Gigabyte Technology Co., Ltd.)
+OS: Windows 10  (10.0.0) 64bit
+Language: English
+CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz (6 core(s))
+System Memory: 8137
+Gfx Device: NVIDIA GeForce GTX 750 Ti
+Gfx Version: Direct3D 11.0 [level 11.0]
+Gfx Memory: 2007
+Gfx Shader Model: 50
+Game Version: 1.10.1-f3-steam-win
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+API: Steam Type: Steam
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting vsync to 1  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raw Command Line: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities.exe
+Arguments: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities.exe
+  [CommandLine - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.Xml.dll (this message is harmless)
+Adding package 'Cliffside Bay' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Cliffside Bay.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'System' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\CO.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Eden Valley2' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Eden Valley2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Foggy Hills' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Foggy Hills.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Garden Rivers2' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Garden Rivers2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Grand River' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Grand River.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Lavender Lake2' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Lavender Lake2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Ferry Empire' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\MT Ferry Empire.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Fix The Traffic' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\MT Fix The Traffic.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Trains' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\MT Trains.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Alpine Villages' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND Alpine Villages.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND By The Dam' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND By The Dam.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Floodland' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND Floodland.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Island Hopping' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND Island Hopping.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Tornado Country' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND Tornado Country.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope1FINAL' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\NorthEurope1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope2FINAL' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\NorthEurope2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope3FINAL' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\NorthEurope3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Cavern Coast' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Cavern Coast.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Honu Island' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Honu Island.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Mountain Meadows' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Mountain Meadows.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Pine Rivers' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Pine Rivers.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Windfield' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Windfield.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope1FINAL' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\SouthEurope1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope2FINAL' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\SouthEurope2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope3FINAL' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\SouthEurope3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical1FINAL' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Tropical1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical2FINAL' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Tropical2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical3FINAL' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Tropical3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter1Final' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter1Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter2Final' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter2Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter3Final' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter3Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Alpine Villages' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Alpine Villages.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'By The Dam' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\By The Dam.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'City of Gardens' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\City of Gardens.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Clean Up Crew' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Clean Up Crew.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Ferry Empire' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Ferry Empire.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Fix the Traffic' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Fix the Traffic.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Floodland' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Floodland.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Green Power' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Green Power.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Island Hopping' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Island Hopping.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tornado Country' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Tornado Country.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Trains' [C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Trains.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001A458030 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A458030.dll
+Non platform assembly: data-0000000012FCDD00 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000012FCDD00.dll
+Non platform assembly: data-000000001A3DF030 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A3DF030.dll
+Non platform assembly: data-000000001A3E0240 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A3E0240.dll
+Non platform assembly: data-000000001302D480 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001302D480.dll
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Mods\HardMode\HardMode.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001A3FD0A0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A3FD0A0.dll
+Assembly HardMode0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Mods\UnlimitedMoney\UnlimitedMoney.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001A459840 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A459840.dll
+Assembly UnlimitedMoney2, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Mods\UnlimitedOilAndOre\UnlimitedOilAndOre.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001A45A650 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A45A650.dll
+Assembly UnlimitedOilAndOre, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Mods\UnlimitedSoil\UnlimitedSoil.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001A45F870 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001A45F870.dll
+Assembly UnlimitedSoil, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Mods\UnlockAll\UnlockAll.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-000000001302E890 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-000000001302E890.dll
+Assembly UnlockAll0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading locale: en
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Simulation started  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Initializing file IO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Init complete
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2273.
+Total: 3.507784 ms (FindLiveObjects: 0.068193 ms CreateObjectMapping: 0.048866 ms MarkObjects: 3.385618 ms  DeleteObjects: 0.005105 ms)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.245789 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2314.
+Total: 3.642712 ms (FindLiveObjects: 0.086427 ms CreateObjectMapping: 0.083509 ms MarkObjects: 3.461835 ms  DeleteObjects: 0.009846 ms)
+
+PopsApi: Popping task: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Popping task: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Title: gdpr-popup-2018-05-17
+PopsApi: Popping task: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Title: terms-of-use-2018-05-16
+PopsApi: Popping task: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Title: privacy-policy-2018-05-15
+Saving C:\Users\Cristopher\AppData\Local\Colossal Order\Cities_Skylines\gameSettings.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Saving C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\colossal.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\colossal.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\colossal.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines;C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Cristopher'
+OS-Version: 10.0.17134 () 0x300-0x1
+C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities.exe:Cities.exe (00007FF799A00000), size: 23814144 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities.exe', fileVersion: 5.6.6.44065
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (00007FFE05CB0000), size: 1970176 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntdll.dll', fileVersion: 10.0.17134.228
+C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFE05A20000), size: 729088 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\KERNEL32.DLL', fileVersion: 10.0.17134.1
+C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFE02980000), size: 2568192 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\KERNELBASE.dll', fileVersion: 10.0.17134.165
+C:\Windows\System32\USER32.dll:USER32.dll (00007FFE05440000), size: 1638400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\USER32.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\win32u.dll:win32u.dll (00007FFE02E30000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\win32u.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\GDI32.dll:GDI32.dll (00007FFE05230000), size: 163840 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\GDI32.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\HID.DLL:HID.DLL (00007FFE00CF0000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\HID.DLL', fileVersion: 10.0.17134.1
+C:\Windows\System32\gdi32full.dll:gdi32full.dll (00007FFE02080000), size: 1646592 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\gdi32full.dll', fileVersion: 10.0.17134.112
+C:\Windows\System32\msvcrt.dll:msvcrt.dll (00007FFE036F0000), size: 647168 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\msvcrt.dll', fileVersion: 7.0.17134.1
+C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (00007FFE02EB0000), size: 651264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\msvcp_win.dll', fileVersion: 10.0.17134.137
+C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (00007FFE02C80000), size: 1024000 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ucrtbase.dll', fileVersion: 10.0.17134.191
+C:\Windows\System32\ole32.dll:ole32.dll (00007FFE031A0000), size: 1380352 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ole32.dll', fileVersion: 10.0.17134.137
+C:\Windows\System32\combase.dll:combase.dll (00007FFE03930000), size: 3289088 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\combase.dll', fileVersion: 10.0.17134.112
+C:\Windows\System32\RPCRT4.dll:RPCRT4.dll (00007FFE03370000), size: 1196032 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\RPCRT4.dll', fileVersion: 10.0.17134.112
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (00007FFDFE240000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VERSION.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFE02C00000), size: 499712 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\bcryptPrimitives.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\sechost.dll:sechost.dll (00007FFE03D90000), size: 372736 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\sechost.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFE05310000), size: 331776 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SHLWAPI.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFE03C60000), size: 659456 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ADVAPI32.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\SHELL32.dll:SHELL32.dll (00007FFE03DF0000), size: 21233664 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SHELL32.dll', fileVersion: 10.0.17134.228
+C:\Windows\System32\cfgmgr32.dll:cfgmgr32.dll (00007FFE02930000), size: 299008 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\cfgmgr32.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\shcore.dll:shcore.dll (00007FFE05AE0000), size: 692224 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\shcore.dll', fileVersion: 10.0.17134.112
+C:\Windows\System32\windows.storage.dll:windows.storage.dll (00007FFE02220000), size: 7393280 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\windows.storage.dll', fileVersion: 10.0.17134.228
+C:\Windows\System32\kernel.appcore.dll:kernel.appcore.dll (00007FFE02060000), size: 69632 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\kernel.appcore.dll', fileVersion: 10.0.17134.112
+C:\Windows\System32\profapi.dll:profapi.dll (00007FFE01FC0000), size: 126976 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\profapi.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\powrprof.dll:powrprof.dll (00007FFE01FE0000), size: 311296 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\powrprof.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\FLTLIB.DLL:FLTLIB.DLL (00007FFE02050000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\FLTLIB.DLL', fileVersion: 10.0.17134.1
+C:\Windows\System32\WS2_32.dll:WS2_32.dll (00007FFE03D20000), size: 442368 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\WS2_32.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFE05370000), size: 794624 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\OLEAUT32.dll', fileVersion: 10.0.17134.48
+C:\Windows\System32\IMM32.dll:IMM32.dll (00007FFE05260000), size: 184320 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\IMM32.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFDF3E60000), size: 1179648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OPENGL32.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (00007FFDF8D20000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMM.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFE01600000), size: 778240 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DNSAPI.dll', fileVersion: 10.0.17134.165
+C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FFE015C0000), size: 229376 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IPHLPAPI.DLL', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFDFE9F0000), size: 901120 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINHTTP.dll', fileVersion: 10.0.17134.137
+C:\Windows\System32\NSI.dll:NSI.dll (00007FFE03300000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\NSI.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (00007FFDF8B50000), size: 172032 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMMBASE.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (00007FFDFBFA0000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GLU32.dll', fileVersion: 10.0.17134.1
+C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll:gameoverlayrenderer64.dll (00007FFDF3AF0000), size: 1593344 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll', fileVersion: 4.65.64.52
+C:\Windows\System32\PSAPI.DLL:PSAPI.DLL (00007FFE036E0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\PSAPI.DLL', fileVersion: 10.0.17134.1
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (00007FFE00680000), size: 622592 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 10.0.17134.1
+C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Mono\mono.dll:mono.dll (00007FFDF1880000), size: 2998272 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\Windows\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (00007FFE01840000), size: 417792 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSWSOCK.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\MSCTF.dll:MSCTF.dll (00007FFE037B0000), size: 1527808 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\MSCTF.dll', fileVersion: 10.0.17134.191
+C:\Windows\system32\dwmapi.dll:dwmapi.dll (00007FFE00750000), size: 167936 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dwmapi.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\d3d11.dll:d3d11.dll (00007FFDFF0B0000), size: 3190784 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d11.dll', fileVersion: 10.0.17134.112
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (00007FFE00D80000), size: 765952 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dxgi.dll', fileVersion: 10.0.17134.112
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_485c1c3102021986\nvldumdx.dll:nvldumdx.dll (00007FFDEFBA0000), size: 962560 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_485c1c3102021986\nvldumdx.dll', fileVersion: 24.21.13.9836
+C:\Windows\System32\crypt32.dll:crypt32.dll (00007FFE02F50000), size: 1974272 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\crypt32.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\MSASN1.dll:MSASN1.dll (00007FFE02030000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\MSASN1.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\WINTRUST.DLL:WINTRUST.DLL (00007FFE02E50000), size: 356352 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\WINTRUST.DLL', fileVersion: 10.0.17134.81
+C:\Windows\System32\imagehlp.dll:imagehlp.dll (00007FFE03790000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\imagehlp.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFE01A00000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CRYPTSP.dll', fileVersion: 10.0.17134.1
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (00007FFE01420000), size: 208896 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\rsaenh.dll', fileVersion: 10.0.17134.191
+C:\Windows\SYSTEM32\bcrypt.dll:bcrypt.dll (00007FFE01B20000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\bcrypt.dll', fileVersion: 10.0.17134.112
+C:\Windows\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (00007FFE019F0000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CRYPTBASE.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_485c1c3102021986\nvwgf2umx.dll:nvwgf2umx.dll (00007FFDE1210000), size: 34230272 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_485c1c3102021986\nvwgf2umx.dll', fileVersion: 24.21.13.9836
+C:\Windows\system32\nvspcap64.dll:nvspcap64.dll (00007FFDD1B70000), size: 2531328 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\nvspcap64.dll', fileVersion: 3.14.0.139
+C:\Windows\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFE010B0000), size: 200704 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntmarta.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\clbcatq.dll:clbcatq.dll (00007FFE03640000), size: 655360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\clbcatq.dll', fileVersion: 2001.12.10941.16384
+C:\Windows\system32\wbem\wbemprox.dll:wbemprox.dll (00007FFDF5F20000), size: 69632 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\wbemprox.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FFDF85A0000), size: 536576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wbemcomn.dll', fileVersion: 10.0.17134.1
+C:\Windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FFDF5FF0000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\wbemsvc.dll', fileVersion: 10.0.17134.1
+C:\Windows\system32\wbem\fastprox.dll:fastprox.dll (00007FFDF62F0000), size: 991232 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\fastprox.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\mscms.dll:mscms.dll (00007FFDEAA00000), size: 688128 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\mscms.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\USERENV.dll:USERENV.dll (00007FFE01EC0000), size: 163840 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\USERENV.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\ColorAdapterClient.dll:ColorAdapterClient.dll (00007FFDF23D0000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ColorAdapterClient.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\icm32.dll:icm32.dll (00007FFDFBEC0000), size: 274432 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\icm32.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\MMDevApi.dll:MMDevApi.dll (00007FFDFC620000), size: 483328 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\MMDevApi.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\PROPSYS.dll:PROPSYS.dll (00007FFDFC2F0000), size: 1785856 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\PROPSYS.dll', fileVersion: 7.0.17134.112
+C:\Windows\System32\DEVOBJ.dll:DEVOBJ.dll (00007FFE01DD0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\DEVOBJ.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\wdmaud.drv:wdmaud.drv (00007FFDFBA00000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wdmaud.drv', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\ksuser.dll:ksuser.dll (00007FFDC8C80000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ksuser.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\AVRT.dll:AVRT.dll (00007FFDF28E0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AVRT.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FFDDFE50000), size: 1228800 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AUDIOSES.DLL', fileVersion: 10.0.17134.137
+C:\Windows\SYSTEM32\wintypes.dll:wintypes.dll (00007FFDFB6A0000), size: 1363968 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wintypes.dll', fileVersion: 10.0.17134.112
+C:\Windows\SYSTEM32\msacm32.drv:msacm32.drv (00007FFDFC8E0000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msacm32.drv', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\MSACM32.dll:MSACM32.dll (00007FFDFBDB0000), size: 114688 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSACM32.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\midimap.dll:midimap.dll (00007FFDFBD60000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\midimap.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000011DD0000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\xinput1_3.dll', fileVersion: 9.18.944.0
+C:\Windows\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFE055D0000), size: 4501504 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SETUPAPI.dll', fileVersion: 10.0.17134.1
+C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Plugins\ColossalNative.dll:ColossalNative.dll (00007FFDDEF40000), size: 14381056 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Plugins\ColossalNative.dll'
+C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\steam_api64.dll:steam_api64.dll (00000000762A0000), size: 258048 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\steam_api64.dll', fileVersion: 3.27.76.74
+C:\Program Files (x86)\Steam\steamclient64.dll:steamclient64.dll (00007FFDDE0B0000), size: 15208448 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamclient64.dll', fileVersion: 4.65.64.52
+C:\Windows\SYSTEM32\Secur32.dll:Secur32.dll (00007FFDF9D10000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\Secur32.dll', fileVersion: 10.0.17134.1
+C:\Program Files (x86)\Steam\tier0_s64.dll:tier0_s64.dll (00007FFDF2C90000), size: 1515520 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\tier0_s64.dll', fileVersion: 4.65.64.52
+C:\Program Files (x86)\Steam\vstdlib_s64.dll:vstdlib_s64.dll (00007FFDF3DE0000), size: 499712 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\vstdlib_s64.dll', fileVersion: 4.65.64.52
+C:\Windows\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FFE01EF0000), size: 196608 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\SSPICLI.DLL', fileVersion: 10.0.17134.1
+C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Plugins\pops_api.dll:pops_api.dll (00007FFDE8100000), size: 4972544 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Cities_Data\Plugins\pops_api.dll'
+C:\Windows\System32\Normaliz.dll:Normaliz.dll (00007FFE03D10000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\Normaliz.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\Windows.UI.dll:Windows.UI.dll (00007FFDF16F0000), size: 1130496 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\Windows.UI.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\TextInputFramework.dll:TextInputFramework.dll (00007FFDF15D0000), size: 618496 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\TextInputFramework.dll', fileVersion: 10.0.17134.191
+C:\Windows\System32\InputHost.dll:InputHost.dll (00007FFDF1670000), size: 495616 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\InputHost.dll'
+C:\Windows\System32\CoreUIComponents.dll:CoreUIComponents.dll (00007FFDF12B0000), size: 3268608 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\CoreUIComponents.dll', fileVersion: 10.0.17134.112
+C:\Windows\System32\CoreMessaging.dll:CoreMessaging.dll (00007FFDFFE80000), size: 892928 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\CoreMessaging.dll', fileVersion: 10.0.17134.228
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FFDFAF20000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\rasadhlp.dll', fileVersion: 10.0.17134.1
+C:\Windows\System32\fwpuclnt.dll:fwpuclnt.dll (00007FFDFC240000), size: 466944 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\fwpuclnt.dll', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (00007FFDFD5C0000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dhcpcsvc6.DLL', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (00007FFDFD2A0000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dhcpcsvc.DLL', fileVersion: 10.0.17134.1
+C:\Windows\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFDFCF00000), size: 1871872 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dbghelp.dll', fileVersion: 10.0.17134.1
+
+========== OUTPUTING STACK TRACE ==================
+
+0x00007FFDF3B75397 (gameoverlayrenderer64) OverlayHookD3D3
+0x00007FFDF3B8A166 (gameoverlayrenderer64) OverlayHookD3D3
+0x00007FFDF3B8B350 (gameoverlayrenderer64) OverlayHookD3D3
+0x00007FFDF3B8B579 (gameoverlayrenderer64) OverlayHookD3D3
+0x00007FFDE83483BD (pops_api) locale_charset
+0x00007FFDE8348441 (pops_api) locale_charset
+0x00007FFDE832DDE0 (pops_api) locale_charset
+0x00007FFDE832DF40 (pops_api) locale_charset
+0x00007FFDE81B4B35 (pops_api) pdx_http_url_encode
+0x00007FFDE81B3777 (pops_api) pdx_http_url_encode
+0x00007FFDE832987C (pops_api) locale_charset
+0x00007FFDE832F7AF (pops_api) locale_charset
+0x00007FFDE832F956 (pops_api) locale_charset
+0x00007FFE05A33034 (KERNEL32) BaseThreadInitThunk
+0x00007FFE05D21431 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
